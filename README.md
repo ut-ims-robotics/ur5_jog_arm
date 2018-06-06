@@ -7,13 +7,11 @@ The package contains custom configuration for our specific ur5 configuration and
 
 Pull and build the packages in your catkin workspace: 
 
-1. https://github.com/UTNuclearRoboticsPublic/jog_arm.git - Main jogger logic. Reccomended reading: https://wiki.ros.org/jog_arm
+1. https://github.com/ut-ims-robotics/jog_arm.git - Main jogger logic. Reccomended reading: https://wiki.ros.org/jog_arm
 
-2. https://github.com/ut-ims-robotics/ur5_force_control - (current repository) contains ur5_jog_arm package, which contains custom configuration for our specific ur5 configuration and launch files.
+2. https://github.com/ut-ims-robotics/keyboard_publisher - keyboard publisher, for testing the jogger with keyboard
 
-3. https://github.com/ut-ims-robotics/keyboard_publisher - keyboard publisher, for testing the jogger with keyboard
-
-4. https://github.com/ut-ims-robotics/ur5_path_planning - and every package that is described in readme of this repository
+3. https://github.com/ut-ims-robotics/ur5_path_planning - and every package that is described in readme of this repository
 
 ### Starting the jogger test scripts
 
